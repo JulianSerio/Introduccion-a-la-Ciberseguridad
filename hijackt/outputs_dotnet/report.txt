@@ -1,0 +1,9 @@
+DotNet artifact analysis report - 2025-10-24T23:50:54.629215Z
+
+Working dir: /home/jserio/Desktop
+
+Output dir: /home/jserio/Desktop/outputs_dotnet
+
+
+Found 0 dll(s), 0 pdb(s), 0 deps.json, 0 runtimeconfig.json
+

@@ -1,0 +1,176 @@
+FILE: /home/jserio/Desktop/outputs/http_objects/acta.dwfx
+TYPE: Zip archive data, at least v2.0 to extract, compression method=store
+
+--- HEX(0:512) ---
+00000000: 50 4b 03 04 14 00 00 00 00 00 63 4c 4a 5b 00 00  PK........cLJ[..
+00000010: 00 00 00 00 00 00 00 00 00 00 05 00 20 00 61 63  ............ .ac
+00000020: 74 61 2f 75 78 0b 00 01 04 00 00 00 00 04 00 00  ta/ux...........
+00000030: 00 00 55 54 0d 00 07 ab 27 e9 68 28 28 e9 68 18  ..UT....'.h((.h.
+00000040: 80 dd 68 50 4b 03 04 14 00 08 00 08 00 63 4c 4a  ..hPK........cLJ
+00000050: 5b 00 00 00 00 00 00 00 00 00 00 00 00 19 00 20  [.............. 
+00000060: 00 61 63 74 61 2f 57 69 6e 55 70 64 61 74 65 64  .acta/WinUpdated
+00000070: 2e 64 65 70 73 2e 6a 73 6f 6e 75 78 0b 00 01 04  .deps.jsonux....
+00000080: 00 00 00 00 04 00 00 00 00 55 54 0d 00 07 ab 27  .........UT....'
+00000090: e9 68 dd 27 e9 68 ab 27 e9 68 8d 51 cb 6e c2 30  .h.'.h.'.h.Q.n.0
+000000a0: 10 bc 23 f1 0f c8 67 ea f0 48 0a ad c4 a1 0f 50  ..#...g..H.....P
+000000b0: 29 14 8a 48 79 1c 9d c4 24 06 c7 b1 6c 13 29 42  )..Hy...$...l.)B
+000000c0: fc 7b e3 40 49 10 85 f6 12 39 3b b3 33 b3 bb bb  .{.@I....9;.3...
+000000d0: 72 a9 52 01 62 cb 14 09 b1 8d 84 8f 15 78 ac ec  r.R.b........x..
+000000e0: 74 35 ad 33 14 e2 f4 17 c0 51 d7 7e 89 04 7e e2  t5.3.....Q.~..~.
+000000f0: bc 3a c3 42 92 88 75 e2 36 ac 81 ea 91 28 89 cf  .:.B..u.6....(..
+00000100: 90 da 8a 8c 0d 74 71 9f 41 c0 8d 42 4e 28 52 69  .....tq.A..BN(Ri
+00000110: c7 98 eb af d4 f2 47 50 65 7e b2 60 78 d5 e8 44  ......GPe~.`x..D
+00000120: 49 49 73 c2 be b8 87 14 f6 8c 3a ac 9d 83 29 ec  IIs.......:...).
+00000130: 61 8e 99 87 99 4b b0 3c 87 52 f0 83 b8 22 92 d1  a....K.<.R..."..
+00000140: 4a 69 27 d8 1f 0e 09 db 40 1b c9 8d a6 82 d4 09  Ji'.....@.......
+00000150: b6 40 de b0 af 16 74 8f 4b ba 90 cc e3 40 8f d2  .@....t.K....@..
+00000160: 6c bc 82 c2 cf 33 97 ba 91 c1 38 04 c8 25 f6 85  l....3....8..%..
+00000170: 55 52 e2 08 24 ce 86 ba b9 0a a0 12 9e dd 83 8b  UR..$...........
+00000180: 68 8d 5d 05 f2 04 12 8b 98 b8 18 39 54 13 56 88  h.]........9T.V.
+00000190: 4a 5c 00 03 64 d5 1b a7 43 e6 d1 ff 15 fc d2 1d  J\..d...C.......
+000001a0: b9 1b e4 e3 ab ee 4a 6c 7f 35 3f bc ee 48 df 6a  ......Jl.5?..H.j
+000001b0: 70 d5 1d 38 49 23 09 27 f7 cf ad c0 b4 e7 4e 2f  p..8I#.'......N/
+000001c0: 0c db 96 6d ce e2 a1 ef 1a 6f f1 d4 b4 96 a2 49  ...m.....o.....I
+000001d0: 7d 62 f6 fb 3d 67 a2 d6 e3 51 d3 99 38 0b 63 e6  }b..=g...Q..8.c.
+000001e0: 3e 98 eb c5 68 3a 8c c5 eb 98 5b 83 a0 35 7d 4f  >...h:....[..5}O
+000001f0: 7a cb 49 a7 53 c8 c3 91 0a b4 63 78 1a 8f 61 05  z.I.S.....cx..a.
+
+
+--- STRINGS ---
+acta/ux
+acta/WinUpdated.deps.jsonux
+acta/WinUpdated.dllux
+*uk	3V
+EWu\4-Y:M
+\X2$M~Ze
+Wg/oBJ
+;!?5x^
+'FsVU"
+w}eN	[G
+[UTX=Vn
+E[ilr3
+9f%KusNy
+acta/WinUpdated.exeux
+VY$[R{
+^P]W`]
+,<zX<b
+m8S0QM7
+4@QWd:]
+M y@oQhX
+pms\so
+w4{~#5
+M\lY2d
+P"Od*"
+}&LnI:S
+pI`92<
+\o!X2r
+:0mJq(
+w&e	 /h
+&p&b=!<%
+]Z8_}+
+P&o*/l7z
+T+!{nX
+fQemr0
+y\uQ`E
+x{c9wy
+#~v+TB*
+e%n)^"
+txkOqxk?<
+K^{i|"
+?y=v[6
+U]GU={
+KgZyl!
+=>&1r f
+#mlz6~
+=XFkF_
+it?l6_
+sS1oGLU
+'^^G_`y
+nif&*qq3R
+.pE-	{
++JcLtq
+Q18U&`K
+ul kQ$
+5q"V7w-
+y305`l
+GNP9ld
+~E3'7D
+a2UjN5
+G1OZ@$
+XSc*>\
+CU%{}s
+`S{HAO
+KN}Vq[3
+),wG }3
+h:$&\J
+pZHOQ:Rn-Z
+93iTkZ,b.
+=?8+w{/
+lBcV&di
+k8sJc3
+l~U5t:
+sX~Rkd
+u,OM;3
+M?EirO
+*jL@,Eb	v
+Qh@vZ7
+o1"t+cL
+Yd;S@[ '"e
+e-0.Z$
+Q;K?s>*s>
+G*o@}WTP
+|=K|8!f
+gOz^HO'=
+,|&QH#=
+9Bnh=S
+/m,#xk
+@t<i~|x$
+[2SKnu'W
+8"@f)hX
+"]"$Zc
+{,p+oC
+xU$]T*<
+p*	L[ N%
+CTCPnPe
+d+Xe2\_
+#kyrgN
+-W^"-Y
+j(&s1CJ
+t>2im1
+^h}(f	
+ZK];4wU
+vM{EYB
+_N_	Lq
+WrXvC>?
+vR\Y0Fz
+''i}\Q
+u@aCJA
+=PKBaO+
+u3Gb7~
+|Nn*l'
+G%~Cbe
+Qwt/{5
+?PvS(L
+Wbl:kJ
+l@/h;p
+0`h\|wqnD
+*9d?Tv
+:X2X6X=X7
+acta/WinUpdated.pdbux
+:*t/HSI
+_^}b9O
+4oH@\}
+Xego!0
+%#nGPvnS
+%:*!9;
+q*H"='
+BG:dQ0`D
+acta/WinUpdated.runtimeconfig.jsonux
+acta/ux
+acta/WinUpdated.deps.jsonux
+acta/WinUpdated.dllux
+cLJ[c}
+acta/WinUpdated.exeux
+cLJ[:o
+acta/WinUpdated.pdbux
+acta/WinUpdated.runtimeconfig.jsonux
