@@ -1,0 +1,4 @@
+
+# Reportes de escaneo: contienen secretos encontrados por las herramientas
+trufflehog_scan.txt
+trivy_scan.txt
